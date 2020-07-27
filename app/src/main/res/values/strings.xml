@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Biscoito da Sorte</string>
+    <string name="FortuneCookie">BISCOITO DA SORTE</string>
+    <string name="fortunecookie">fortunecookie</string>
+    <string name="sort">Veja sua sorte</string>
+    <string name="fortunemessage">fortuneMessage</string>
+    <string name="fortunecookiebreak">fortunecookiebreak</string>
+</resources>
